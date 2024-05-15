@@ -1,0 +1,13 @@
+h1 {
+  color: brown;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  background-color: aquamarine;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.container {
+  margin: 20px;
+}
